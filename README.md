@@ -6,7 +6,7 @@ COVID-Tracker
 
 Project Description
 
-This application will allow users to view up-to-date counts of infections, hospitalizations, recoveries, and mortalities due to COVID-19.  Users can select the country of their choosing to view regional statistics as well as allow them to submit current symptoms they may be experiencing.
+This application will allow users to view up-to-date counts of infections, hospitalizations, recoveries, and mortalities due to COVID-19.  Users can select the country of their choosing to view regional statistics as well as allow them to submit current symptoms they may be experiencing if they are feeling under the weather.
 
 Wireframes
 
@@ -100,7 +100,7 @@ When a user submits symptoms related to COVID, a warning message displays regard
 
 
 Day	Deliverable	Status
-October 9	Prompt / Wireframes / Priority Matrix / Timeframes	Complete
+October 9	Prompt / Wireframes / Timeframes	Complete
 October 13	Project Approval	Incomplete
 October 13	Core Application Structure (HTML, CSS, JS.)	Incomplete
 October 14	Pseudocode / actual code	Incomplete
