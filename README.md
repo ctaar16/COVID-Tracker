@@ -113,13 +113,14 @@ Timeframes
 
 Component	Priority	Estimated Time	Time Invested	Actual Time
 Adding Core structure	H	4hrs	0hrs	0hrs
-Adding Data tables	H	6hrs	0hrs	0hrs
-Adding Data charts	H	6hrs	0hrs	0hrs
+Adding Components	H	4hrs	0hrs	0hrs
+Rendering Data tables	H	6hrs	0hrs	0hrs
+Rendering Data charts	H	6hrs	0hrs	0hrs
 Integrating AirTable	H	4hrs	0hrs	0hrs
 Adding Input Form	H	4hrs	0hrs	0hrs
 Working with API	H	4hrs	0hrs	0hrs
-Working with CSS	H	6hrs	0hrs	0hrs
-Total	H	34hrs	0hrs	0hrs
+Working with CSS	H	8hrs	0hrs	0hrs
+Total	H	40hrs	0hrs	0hrs
 
 SWOT Analysis
 
@@ -130,8 +131,7 @@ Weaknesses:
 I feel that I might struggle with incorporating AirTable into the project.
 
 Opportunities:
-If time and skill allows, I'd like to display a warning message on the app if an 
-COVID outbreak is occuring locally.
+If time and skill allows, I'd like to display a warning message on the app if a COVID outbreak is occuring locally.
 
 Threats:
 Time.
