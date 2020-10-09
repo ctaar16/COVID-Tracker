@@ -21,7 +21,7 @@ https://www.figma.com/file/pncYtJ03NmjVZKnLaD1WiW/Global-Data-Page
 Country Data Page:
 https://www.figma.com/file/Jw2QZ1RV54Qq7WdDDExpUD/Country-Data-Page?node-id=0%3A1
 
-
+AirTable: https://airtable.com/invite/l?inviteId=inv1rcRsVLaEFiWsm&inviteToken=8e79b5770a2692511004dbd0f8483dce66619f4fc84787eb21a909f883ada37c
 
 Component Hierarchy
 
