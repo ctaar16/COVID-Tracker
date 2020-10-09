@@ -23,13 +23,6 @@ https://www.figma.com/file/Jw2QZ1RV54Qq7WdDDExpUD/Country-Data-Page?node-id=0%3A
 
 
 
-
-
-
-
-
-
-
 Component Hierarchy
 
 		  App.js
